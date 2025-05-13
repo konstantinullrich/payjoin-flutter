@@ -13,10 +13,6 @@ dependencies:
   flutter_rust_bridge: ">2.8.0 <=2.9.0"
   ffi: ^2.1.4
   freezed_annotation: ^3.0.0
-  mockito: ^5.4.5
-  collection: ^1.18.0
-  meta: ^1.15.0
-  uuid: ^4.2.1
 
 dev_dependencies:
   ffigen: ^18.1.0
